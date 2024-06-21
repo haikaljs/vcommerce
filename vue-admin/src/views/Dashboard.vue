@@ -1,5 +1,9 @@
-<script></script>
 <template>
-    <h1>Dashboard</h1>
+    <AppLayout>
+        <h1>Dashboard</h1>
+    </AppLayout>
 </template>
+<script>
+import AppLayout from "../components/AppLayout.vue";
+</script>
 <style></style>

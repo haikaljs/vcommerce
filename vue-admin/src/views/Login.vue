@@ -1,5 +1,5 @@
 <template>
-    <GuestLayout>
+    <GuestLayout title="Sign in to your account">
         <form class="space-y-6" action="#" method="POST">
             <div>
                 <label

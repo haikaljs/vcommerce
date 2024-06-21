@@ -1,5 +1,5 @@
 <template>
-    <GuestLayout title="Request New Password">
+    <GuestLayout title="Request new password">
         <form class="space-y-6" action="#" method="POST">
             <div>
                 <label
